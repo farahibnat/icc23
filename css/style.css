@@ -1,0 +1,26 @@
+h1{
+
+	display: none;
+}
+
+.heading1{
+
+
+	color: hotpink;
+	background: red;
+}
+
+.heading2{
+
+	background: red;
+}
+
+.heading3{
+	display: block;
+}
+
+.video{
+
+	width: 560px;
+	height: 315px;
+}
